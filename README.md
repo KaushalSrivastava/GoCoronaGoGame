@@ -1,5 +1,5 @@
 # GoCoronaGoGame
-A 2d platform game built using Unity.
+GoCoronaGo Game is a 2d platform game I built using Unity during March 2020 Lockdown.
 
 
 About Go Corona Go Game
