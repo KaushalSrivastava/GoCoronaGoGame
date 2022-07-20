@@ -17,7 +17,7 @@ Highlights -
 
 Even after numerous directives by the Government, advisories by the World Health Organisation and doctors across the world, the cases of novel Coronavirus (Covid-19) are increasing day by day at a phenomenal rate. The reason is the lack of awareness about what to do and what not to do during this outbreak. Many people are still unaware on how to stay safe and take care of themselves and their loved ones from this pandemic. What's better than spreading awareness through a fun game to educate people about Corona. That's exactly what an independent developer (Kaushal Srivastava) from Jharkhand, India has developed. The game is a tribute to doctors where in you play a Doctor who is on a mission to kill all the Corona Virus in the world. Along his journey you fight viruses and learn about the causes, symptoms and preventive measures to tackle the Pandemic.
 
-The game is an android game freely available at https://www.gocoronagogame.blogspot.com and can be downloaded and played in any android smartphone. The game's title is inspired from a slogan "Go Corona, Corona Go", which is now known to everyone after being popularized by Union Minister of State for Social Justice and Empowerment.
+The game is an android game freely available at https://gocoronagogame.blogspot.com and can be downloaded and played in any android smartphone. The game's title is inspired from a slogan "Go Corona, Corona Go", which is now known to everyone after being popularized by Union Minister of State for Social Justice and Empowerment.
 
 About Go Corona Go Gameplay :
 
