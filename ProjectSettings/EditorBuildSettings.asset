@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0 Menu.unity
+    guid: 2cea5920db6389247b461cd41b744f52
+  - enabled: 1
+    path: Assets/Scenes/1 instructions.unity
+    guid: c933a550c55e938499dee3c5d3331ecb
+  - enabled: 1
+    path: Assets/Scenes/2.0 Stage 3.unity
+    guid: 8efa89b6800e3a145874cf9b1787904f
+  - enabled: 1
+    path: Assets/Scenes/3 GameOver.unity
+    guid: ec90bb62eba0b254a9a1902273e02171
+  - enabled: 1
+    path: Assets/Scenes/4 PreBoss Instructions.unity
+    guid: ff78200611b9dbd438a8f516650f1227
+  - enabled: 1
+    path: Assets/Scenes/5 Boss Arrives.unity
+    guid: 362e8858b95a1024ca28ef41c75ee66c
+  - enabled: 1
+    path: Assets/Scenes/6 Boss Battle.unity
+    guid: a2915f975b615fb4c8f90038cde9fbbe
+  - enabled: 1
+    path: Assets/Scenes/7 BossBattleGameOver.unity
+    guid: b9cb7098050b4bc43a36295ac4e1a0e5
+  - enabled: 1
+    path: Assets/Scenes/8 Credits.unity
+    guid: 693c00046823fd74d821cbe5034366a4
+  - enabled: 1
+    path: Assets/Scenes/1.5 Stage 1.unity
+    guid: c448150298988404aad680de3646d2e8
+  - enabled: 1
+    path: Assets/Scenes/Winning Scene.unity
+    guid: 34c1db3a0936c5a45b384d48c0fe5ae7
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 8205786ad7750754bbf62c3b8d35efff
+  - enabled: 1
+    path: Assets/Scenes/1.6 Stage 2.unity
+    guid: 0b09bd25b73acd1449f6dc95e486ec7e
+  m_configObjects: {}
