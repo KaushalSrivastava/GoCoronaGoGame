@@ -5,6 +5,12 @@ A 2d platform game built using Unity.
 About Go Corona Go Game
 Can you save the world from Corona? A New fun and educational game "Go Corona Go" aims at spreading awareness among people about Corona Virus symptoms, causes and preventive measures. :-
 
+![Cover image](https://1.bp.blogspot.com/-MgAn1-r6w3Y/Xqg6g1O4EkI/AAAAAAAAAAs/VuBbjqfUfaElJQ8D8Ys4hIK0_DaSr5kZgCLcBGAsYHQ/s640/gocoronago%2B%25284%2529.png)
+![Cover image](https://1.bp.blogspot.com/-CqLlhJgxBrs/Xqg6hha40YI/AAAAAAAAAAw/0AVKYzMblLUhiWJmSsx8Ig4MrXicWXvwACLcBGAsYHQ/s640/gocoronago%2B%25287%2529.png)
+
+![Cover image](https://1.bp.blogspot.com/-d1ScnBvcHic/Xqg6gS3mmtI/AAAAAAAAAAk/WjzmK-4huFoHR6F5O6-DmIl59p-z4z5GACLcBGAsYHQ/s640/gocoronago%2B%25285%2529.png)
+![Cover image](https://1.bp.blogspot.com/-OuzNftV89LI/Xqg6fkXHpAI/AAAAAAAAAAg/hCxsr1UtnJonNNUJKLejciBqScgb9TiNACLcBGAsYHQ/s640/gocoronago%2B%25283%2529.png)
+
 
 DOWNLOAD APK AT : https://gocoronagogame.blogspot.com/
 
